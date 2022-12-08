@@ -5,28 +5,13 @@ ___
 To connect Croaster to WiFi you can use Laptop or your smartphone device to open config portal.
 
 # Steps
-* use your device to connect a wifi (SSID name) **Coraster**, 
-* after your device connected, wait until popup or notification to open config portal page of croaster
-* after config portal opened, press *Configure WiFi* 
-* select your WiFi connection (SSID name) that you want to connect
-* enter the password
-* press *save*
-* wait until Croaster connected to WiFi (SSID name) you have selected, 
+* Use your device to connect a wifi (SSID name) **Coraster**, 
+* After your device connected, wait until popup or notification to open config portal page of croaster
+* If config portal page not shown, open your browser then enter: `192.168.1.4`
+* After config portal opened, press *Configure WiFi* 
+* Select your WiFi connection (SSID name) that you want to connect then enter the password
+* Press *save*
+* Wait until Croaster connected to WiFi (SSID name) you have selected
 * Your device will disconnected with Croaster if, Croaster have been connected.
 
-## Cara menghubungkan Croaster ke Wifi
-
-___
-
-Untuk menghubungkan Croaster ke WiFi anda dapat menggunakan laptop atau smartphone (HP) untuk membuka halaman config portal.
-
-# Langkah-langkah
-* Hubungkan perangkat (Laptop / HP) Anda ke WiFi dengan nama **Coraster**
-* Setelah terhubung tunggu hingga muncul popup atau notifikasi untuk membuka halaman config portal
-* setelah halaman config portal muncul 
-* press *Configure WiFi* 
-* select your WiFi connection (SSID name) that you want to connect
-* enter the password
-* press *save*
-* wait until Croaster connected to WiFi (SSID name) you have selected, 
-* Your device will disconnected with Croaster if, Croaster have been connected.
+Need help? [click here](mailto:bayyinullah@gmail.org?subject=Help%20and%20Feedback%20Croaster&body=Hello%20Croaster%20dev.%0AI%20need%20help%20for%20%0A%0A%20and%20I%20have%20some%20feedback%20for%0A)
